@@ -97,3 +97,5 @@ Watch-List, https://kim-watch-list.herokuapp.com/
 My first ever app deployed with Heroku coded with Ruby on Rails. Objective is to
 create a list of movie to watch.
 
+Game-Time, https://kim-game-time.herokuapp.com/
+A web-app project created with Ruby on Rails. A collection of small basic games using Javascript for the racing game, calling API for countries information and valid english word.
